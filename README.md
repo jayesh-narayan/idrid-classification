@@ -5,8 +5,8 @@ Python Notebook on Classification of eye fundus images from the IDRiD Dataset ba
 
 ## Contributors
 
-- **[Himanshu Agarwal](https://github.com/HimanshuAgarwal022)**
-
 - **[Jayesh Narayan](https://github.com/jayesh1narayan)**
+
+- **[Himanshu Agarwal](https://github.com/HimanshuAgarwal022)**
 
 ***
